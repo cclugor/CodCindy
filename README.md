@@ -1,5 +1,4 @@
 # Sample code
 
-Hello, I'm Cindy, an economist learning how to use Git and GitHub.
-
 Códigos útiles varios.
+1. Código para recuperar la TRM del día para Colombia (python)
